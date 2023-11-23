@@ -1,0 +1,12 @@
+.*
+.vscode
+.idea
+!.gitignore
+!.editorconfig
+
+*.pyc
+__pycache__/
+*.egg-info
+
+*.log
+_trial_temp*
